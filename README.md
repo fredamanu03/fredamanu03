@@ -1,7 +1,17 @@
-<img src=“https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif” width= 40> Hi!!!
- <img src = “https://media1.giphy.com/media/5k1Wu87CzkDfrx0Xwj/giphy.gif?cid=790b7611942ecae413c5914a1cad94253ada583ee0afd79a&rid=giphy.gif&ct=g” width = 430 align=“right”>
- <img src=“https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif” width=“40”>
-<img src=“https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif” width=“50”> Skills and Framework
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width= 40> Hi! I am Freda
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; A business management consulting professional making a career change to software development.
+- 🎓 &nbsp; Completed a 5-month intensive bootcamp learning the essentials in Fullstack development by building complex projects.
+- 💼 &nbsp; Currently learning new technologies and developing software solutions and quick hacks
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp;  Hoping to combine research, analytical and problem-solving skills to create stunning websites and app experiences for users.
+ 
+ <br/>
+ 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills and Framework
+
 ![](https://img.shields.io/badge/<Code>-<HTML>-informational?style=flat&logo==<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<JavarScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -10,12 +20,30 @@
 ![](https://img.shields.io/badge/<Framework>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<React--Native>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Package>-<Styled-Component>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/github/commit-activity/w/Andreaa-Dev/Self-learning?color=red&style=plastic)
 ![](https://img.shields.io/github/last-commit/Andreaa-Dev/Self-learning?color=purple)
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=clothe&style=plastic&up_color=yellow&up_message=Self-learning&url=https%3A%2F%2Fexpense.mlem-mlem.net%2F)
 ![](https://img.shields.io/github/stars/Andreaa-Dev?style=plastic)
-<img src=“https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif” width=“55”>
+
+
+
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55">
+
 GitHub Stats
-<img align=“center” width=“300” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaa-Dev&theme=shades-of-purple” />
-<img align=“center” width=“450" src=“https://github-readme-stats.vercel.app/api/?username=Andreaa-Dev&theme=shades-of-purple” />
-(292 kB)
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredamanu&theme=buefy&show_icons=true&shades-of-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredamanu&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="left">
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
