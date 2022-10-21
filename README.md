@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A business management consulting professional making a career change to software development.
+- 🤔 &nbsp; A sofware developer with a previous background in business consulting
 - 🎓 &nbsp; Completed a 5-month intensive bootcamp learning the essentials in Fullstack development by building complex projects.
 - 💼 &nbsp; Currently learning new technologies and developing software solutions and quick hacks
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp;  Hoping to combine research, analytical and problem-solving skills to create stunning websites and app experiences for users.
+- ✍️ &nbsp;  Hoping to combine research, analytical and problem-solving skills to create stunning websites and app experiences for .
  
  <br/>
  
