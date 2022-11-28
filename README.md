@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Completed a 5-month intensive bootcamp learning the essentials in Fullstack development by building complex projects.
 - 💼 &nbsp; Currently learning new technologies and developing software solutions and quick hacks
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp;  Hoping to combine research, analytical and problem-solving skills to create stunning websites and app experiences for .
+- ✍️ &nbsp;  Hoping to combine research, analytical and problem-solving skills to create stunning websites and app experiences.
  
  <br/>
  
