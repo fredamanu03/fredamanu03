@@ -48,3 +48,4 @@ GitHub Stats
 <a href="mailto:fredamanu03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fredamanu03@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 # fredamanu03
+# fredamanu03
